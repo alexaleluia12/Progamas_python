@@ -1,5 +1,5 @@
 from threading import Thread
-#import winsound
+import winsound
 import time
 class Metrometro(Thread):
 
